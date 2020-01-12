@@ -1,14 +1,15 @@
 # What's not working?
 
 Wake on sleep. 
-One case fan for some weird reason.
 
 # What's working?
 Dual Displays on Mojave.
 All I/O ports (VGA not tested, HDMI/DP are fine)
+Bluetooth (plug and play with ASUS BT400)
+iMessage
 
-# What's not tested?
-Airdrop, wifi, etc. I'll wait for my ASUS BT400
+# What's not working?
+Airdrop. I dont have a wifi chip yet.
 
 Build was scavenged together from some spare parts. 
 Part List:
@@ -21,6 +22,7 @@ SSD: Samsung 860 EVO 256GB
 GPU: AMD Radeon R9 270 2GB
 Cooler: CM Hyper 212 Turbo LED White
 Case: Tecware Nexus TG ATX.
+Bluetooth USB: ASUS BT400
 ```
 
 # Things to note:
