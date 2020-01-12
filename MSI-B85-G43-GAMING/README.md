@@ -1,15 +1,17 @@
 # What's not working?
-
-Wake on sleep. 
+- Wake on sleep. 
+- Airdrop. I dont have a wifi chip yet.
 
 # What's working?
-- Dual Displays on Mojave.
+- Dual Displays on Catalina.
 - All I/O ports (VGA not tested, HDMI/DP are fine)
 - Bluetooth (plug and play with ASUS BT400)
 - iMessage
 
-# What's not working?
-Airdrop. I dont have a wifi chip yet.
+# Installation Process:
+This is literally thrown together using the vanilla guide on /r/hackintosh. Everything worked OOTB, except for AtherosE2200 being required for an Ethernet Driver.
+
+From there, I did a system upgrade to mojave, and then catalina. I initially installed it using OSX High Sierra
 
 Build was scavenged together from some spare parts. 
 Part List:
