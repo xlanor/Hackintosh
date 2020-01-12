@@ -18,7 +18,7 @@ Part List:
 ```
 Mobo: MSI B85-G43-Gaming
 CPU: i5-4570
-RAM: 2x 8GB Corsair Vengance DDR3
+RAM: 4x 8GB GSkill Ripjaws X 1833Mhz DDR3 (Scavenged, so limited to 1600Mhz XMP)
 PSU: EVGA Supernova 750W G3
 SSD: Samsung 860 EVO 256GB
 GPU: AMD Radeon R9 270 2GB
