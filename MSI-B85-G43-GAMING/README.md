@@ -3,10 +3,10 @@
 Wake on sleep. 
 
 # What's working?
-Dual Displays on Mojave.
-All I/O ports (VGA not tested, HDMI/DP are fine)
-Bluetooth (plug and play with ASUS BT400)
-iMessage
+- Dual Displays on Mojave.
+- All I/O ports (VGA not tested, HDMI/DP are fine)
+- Bluetooth (plug and play with ASUS BT400)
+- iMessage
 
 # What's not working?
 Airdrop. I dont have a wifi chip yet.
